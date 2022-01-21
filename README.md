@@ -15,6 +15,7 @@ A python Script to scrape data from google maps.
 ### Note
 Google Maps UI changes frequently if you get any errors on running just replace older id's with new id's for clickable items
 
-## If it helped you!
+## Without Code!!
 
-<a href="https://www.buymeacoffee.com/dhanr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+Click [here](https://savemydayapp.com/google-maps-extractor/).
+
